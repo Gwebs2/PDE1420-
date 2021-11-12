@@ -1,4 +1,4 @@
-mport pdb #import python debugger
+import pdb #import python debugger
 
 L = [30, 21, 16, 66, 78, 109, 1, 4, 52]
 print(L) #show list before sorting algorithm
